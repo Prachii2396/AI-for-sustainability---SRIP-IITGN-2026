@@ -7,7 +7,7 @@ Implements spatial gridding, satellite image filtering, land-cover label extract
 
 ## 📌 Project Overview
 
-This project builds a complete geospatial AI pipeline for auditing the Delhi Airshed using satellite imagery and raster land-cover data.
+This project builds a complete geospatial AI pipeline for auditing the Delhi Airshed using satellite imagery and raster land-cover data. (THE PROJECT IS STILL IN PROGRESS AND  WILL BE COMPLETED BY 15 MARCH)
 
 The system integrates:
 - 🗺️ Geospatial processing  
